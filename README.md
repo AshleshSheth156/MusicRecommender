@@ -8,7 +8,7 @@ The Tableau workbook included in this project provides interactive visualization
 
 # How to Use Tableau Workbook
   Requirements: Ensure Tableau software is installed.
-  Opening the Workbook: Open the Tableau workbook file (filename.twb) using Tableau software.
+  Opening the Workbook: Open the Tableau workbook file (Music.twb) using Tableau software.
   Interact with Visualizations: Explore different sheets and dashboards to analyze music data dynamically.
 
 # Music Recommender System (Python Notebook)
