@@ -22,6 +22,7 @@ The Python notebook (music_recommender.ipynb) implements a Music Recommender Sys
 
 # Dataset
 The project utilizes a music dataset containing song details, user preferences, and other relevant information. 
+Download dataset from the link : https://static.turi.com/datasets/millionsong/10000.txt https://static.turi.com/datasets/millionsong/song_data.csv
 
 # Contributions
 
