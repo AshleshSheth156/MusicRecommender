@@ -7,7 +7,7 @@ This repository contains a Music Recommender System implemented using the K-Near
 The Tableau workbook included in this project provides interactive visualizations for analyzing music data. It offers insights into song popularity, artist trends, user listening behavior, and more. Users can explore the data through various dashboards and charts.
 
 # How to Use Tableau Workbook
-  `Requirements: Ensure Tableau software is installed.`
+  Requirements: Ensure Tableau software is installed.
   Opening the Workbook: Open the Tableau workbook file (filename.twb) using Tableau software.
   Interact with Visualizations: Explore different sheets and dashboards to analyze music data dynamically.
 
